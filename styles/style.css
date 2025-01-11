@@ -156,7 +156,92 @@
 }
 
 /* main styles */
+.future-container{
+  margin: 80px 160px;
+}
+
+.vision{
+  display: flex;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+}
+.icon-title{
+  font-size: 9px;
+  font-weight: 700;
+}
+.future1{
+  border-radius: 16px;
+  background: rgba(84, 144, 245, 0.2);
+  width: 401px;
+  height: 150px;
+  
+}
+.future2{
+  border-radius: 16px;
+  background: rgb(198, 228, 214);
+  width: 401px;
+  height: 150px;
+  
+}
+.future3{
+  border-radius: 16px;
+  background: rgb(247, 235, 207);
+  width: 401px;
+  height: 150px;
+  
+}
+.vision{
+  gap: 18px;
+
+}
+.vision>div{
+  padding: 32px;
+  align-items: center;
+}
+.vision>div>.item{
+  /* width: 202px;
+  height: 55px; */
+
+}
+.nor{
+  font-size: 9px;
+  font-weight: 400;
+  color:rgba(14, 14, 14, 0.8);
+}
+.but{
+  padding: 4px 8px;
+  border: none;
+  border-radius: 5px;
+  color: #FFFFFF;
+  font-size: 9px;
+  width: 85px;
+  height: 28px;
+}
+.but1{
+  background-color: rgb(84, 144, 245);
+}
+.but2{
+  background-color: rgb(9, 161, 92);
+}
+.but3{
+  background-color: rgb(255, 194, 57);
+}
+.chief-adviser{
+  background-image: url('../assets/quote-bg.png');
+  background-repeat: no-repeat;
+  background-position: 24px 22px;
+  padding: 48px 24px 48px 24px;
+  background-color:rgba(252, 249, 249, 0.6);
+  border-radius: 16px;
+  
+  
+}
 
 
+
+
+  
 
 
